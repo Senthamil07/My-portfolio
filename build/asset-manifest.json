@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78a8f7c7.css",
+    "main.js": "/static/js/main.af002b00.js",
+    "static/media/react.webp": "/static/media/react.81a7ba9ba5ceef398444.webp",
+    "static/media/about1.png": "/static/media/about1.18f5ff5414befe225a0f.png",
+    "static/media/hero.png.webp": "/static/media/hero.png.2f1ce769aa23a0656339.webp",
+    "static/media/resume2.png": "/static/media/resume2.b025f3da30e20640e863.png",
+    "static/media/Senthamil selvan cv1.pdf": "/static/media/Senthamil selvan cv1.8536451cf6f0983ecec3.pdf",
+    "index.html": "/index.html",
+    "main.78a8f7c7.css.map": "/static/css/main.78a8f7c7.css.map",
+    "main.af002b00.js.map": "/static/js/main.af002b00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78a8f7c7.css",
+    "static/js/main.af002b00.js"
+  ]
+}
